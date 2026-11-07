@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dias.Ai - Pemandu Pelancongan Pintar Sibu",
+  "description": "Pemandu pelancongan pintar Sibu, Sarawak (My Kampung, My Pride) dengan peta pintar, galeri tempat, perancang laluan AI dan pembantu pintar Dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
